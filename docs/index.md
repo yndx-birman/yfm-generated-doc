@@ -2,7 +2,8 @@
 
 ## Javadoc
 
-[Source](https://github.com/yndx-birman/yfm-generated-doc/src/javadoc/index.js)
+[Source](https://github.com/yndx-birman/yfm-generated-doc/blob/master/src/javadoc/index.js)
+
 [View result](./javadoc/javascript.md)
 
 ### Makefile
