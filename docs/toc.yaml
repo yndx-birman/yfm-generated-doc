@@ -1,0 +1,6 @@
+title: Auto-generated docs
+items:
+  - name: Getting started
+    href: index.md
+  - name: Javadoc
+    href: javadoc/javascript.md
